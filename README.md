@@ -2,7 +2,7 @@
 
 Cross-border currency payments — a Tilda landing page.
 
-**Live:** https://erix319.github.io/tilda-moneyport/
+**Live:** https://pafuluofu-dev.github.io/tilda-moneyport/
 
 ## About
 
